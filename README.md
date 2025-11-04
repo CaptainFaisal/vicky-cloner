@@ -1,4 +1,4 @@
-# Termux Commands for the script
+# Termux commands for the script
 ```
 cd ~
 rm -rf vicky-cloner
